@@ -26,3 +26,12 @@ git log
 ````
 
 
+# Crea una rama
+```
+git branch <branch_name>
+```
+
+# Cambiar de rama o commit
+```
+git checkout <branch_name/commit_hash>
+```
