@@ -1,2 +1,0 @@
-Nombre: Americo
-SO: Windows
